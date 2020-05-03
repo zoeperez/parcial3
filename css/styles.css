@@ -1,0 +1,89 @@
+body{
+    color: rgb(97, 94, 94);
+    margin: 0;
+    text-align: center;
+ font-family: 'Amatic SC', cursive;
+}
+
+h1{
+    color: rgb(255, 0, 0), 255, 255);
+    font-size: 10rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Monoton', cursive;
+}
+
+h2{
+    color: rgba(34, 192, 20, 0.822);
+    font-family: 'Bangers', cursive;
+    font-size: 6rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3{
+    color: rgb(255, 140, 8);
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+h4{
+    color: rgb(17, 102, 158);
+    font-family: 'Audiowide', cursive;
+}
+.lead{
+    color:  rgb(240, 63, 137);
+    font-size: 2rem;
+}
+
+p{ color: rgb(75, 65, 65); 
+    font-family: 'Allerta Stencil', sans-serif;
+    font-size: 1rem;
+    margin-block-start: 1px;
+}
+
+hr{
+    border: dotted rgb(170, 177, 177) 6px;
+    border-bottom: none;
+    width: 6%;
+    margin: 100px auto;
+}
+
+
+.container{
+    color: orange;
+}
+.contenedorMedio{
+    margin: 120px 0;
+}
+
+.contenedorInferior{
+    background-color: rgb(247, 230, 4);
+    padding: 40px 0 20px;
+}
+
+.jugos{
+    width: 40%;
+    margin: 120px auto 100px auto;
+    text-align: left;
+}
+
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+
+.codigoImg{
+    width: 25%;
+    float: left;
+    margin: 30px;
+}
+
+.controlImg{
+    width: 25%;
+    float: right;
+    margin: 30px;
+}
+
+
+    
